@@ -19,8 +19,17 @@ Don’t worry! Join my BUG VIP group absolutely FREE! 🆓💎
 No hidden charges, no fees — just FREE trades and expert guidance. 🎯📈  
 Click the link below and start winning today! 🏆🔥  
 
-For Compounding ⬇️⬇️⬇️⬇️  
-https://t.me/+LCqPFEoYMqJjZDQ1
+📍 Join Now ⬇️  
+🔗 https://t.me/+LCqPFEoYMqJjZDQ1
+
+📍 For Compounding Setup ⬇️  
+🔗 https://t.me/+LCqPFEoYMqJjZDQ1
+
+📍 Real-Time Signals Here ⬇️  
+🔗 https://t.me/+LCqPFEoYMqJjZDQ1
+
+📍 Daily Profits Access ⬇️  
+🔗 https://t.me/+LCqPFEoYMqJjZDQ1
 """
     client.send_message(chat_id=request.from_user.id, text=message)
 
